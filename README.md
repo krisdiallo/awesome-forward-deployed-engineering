@@ -32,6 +32,7 @@ Maintained by [FDE Dispatch](https://fdedispatch.com). Links last checked Octobe
 - [What is a Forward Deployed Engineer? (FDE Dispatch)](https://fdedispatch.com/what-is-a-forward-deployed-engineer/) - The three skills the role comes down to and what the day-to-day work looks like.
 - [Forward Deployed Engineer vs. solutions engineer (FDE Dispatch)](https://fdedispatch.com/fde-vs-solutions-engineer/) - Where the two roles differ and overlap, and how a solutions engineer can move into FDE work.
 - [Forward Deployed Engineer vs. software engineer (FDE Dispatch)](https://fdedispatch.com/forward-deployed-engineer-vs-software-engineer/) - How the two roles differ in day-to-day work, ownership, travel, interview loops, and posted pay at the same employers.
+- [Deployment strategist vs. Forward Deployed Engineer (FDE Dispatch)](https://fdedispatch.com/deployment-strategist/) - What the deployment strategist role is, which employers post it, and how it differs from the engineering role.
 
 ## Company writing on the role
 
@@ -90,6 +91,8 @@ Individual postings close often, so these link to each company's careers or job 
 
 - [Forward Deployed Engineer job titles (FDE Dispatch)](https://fdedispatch.com/fde-job-titles/) - What each employer calls the role, with pay, experience, and travel as posted.
 - [Forward Deployed Engineer salary (FDE Dispatch)](https://fdedispatch.com/forward-deployed-engineer-salary/) - Pay ranges copied from live employer job postings, each linked and dated.
+- [Forward Deployed Engineer posting datasets (FDE Dispatch)](https://fdedispatch.com/fde-data/) - Downloadable datasets built from public FDE job postings (titles, skills, pay, travel, experience), with methodology and citation notes.
+- [How much do Forward Deployed Engineers travel? (FDE Dispatch)](https://fdedispatch.com/forward-deployed-engineer-travel/) - Travel expectations as stated in FDE job postings, including how often remote roles mention travel.
 - [Forward Deployed Engineers (AI Engineering Field Guide)](https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/role/06-fde.md) - Responsibilities and skills drawn from 146 FDE job postings.
 - [FDE glossary (FDE Dispatch)](https://fdedispatch.com/fde-glossary/) - Short definitions of terms used in FDE work and hiring.
 
