@@ -122,6 +122,7 @@ Individual postings close often, so these link to each company's careers or job 
 - [Select Star SQL](https://selectstarsql.com/) - Free interactive SQL book for the data work most deployments involve.
 - [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) - The standard vocabulary for connecting systems that were not built to talk to each other.
 - [The Mom Test](https://www.momtestbook.com/) - Short book on asking customers questions that get honest answers, useful for discovery.
+- [FDE from Scratch (mchittineni)](https://mchittineni.github.io/fde-from-scratch/) - Free, open-source learning path with experience-level tracks, hands-on labs, timed decomposition drills and a mock interview loop.
 
 ## Communities
 
