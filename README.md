@@ -95,6 +95,7 @@ Individual postings close often, so these link to each company's careers or job 
 - [How much do Forward Deployed Engineers travel? (FDE Dispatch)](https://fdedispatch.com/forward-deployed-engineer-travel/) - Travel expectations as stated in FDE job postings, including how often remote roles mention travel.
 - [Forward Deployed Engineers (AI Engineering Field Guide)](https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/role/06-fde.md) - Responsibilities and skills drawn from 146 FDE job postings.
 - [FDE glossary (FDE Dispatch)](https://fdedispatch.com/fde-glossary/) - Short definitions of terms used in FDE work and hiring.
+- [AI engineer vs forward deployed engineer: 47 job posts (madsalt)](https://madsalt.tech/blog/ai-engineer-vs-forward-deployed-engineer/) - What separates the two roles, counted in 47 job postings from 2026.
 
 ## Interview prep
 
